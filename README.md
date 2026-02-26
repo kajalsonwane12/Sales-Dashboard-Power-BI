@@ -3,8 +3,6 @@ Sales Performance Dashboard using Power BI
 
 # 📊 Sales Dashboard – Power BI
 
-# 📊 Sales Dashboard – Power BI
-
 ## 🔍 About the Project
 I created this Sales Dashboard in Power BI to analyze overall business performance.  
 The dashboard helps in understanding sales trends, profit performance, and top-selling products.
