@@ -56,9 +56,4 @@ These filters make the dashboard interactive and easy to analyze.
 - Creating KPI cards  
 - Writing basic DAX formulas  
 - Building interactive visuals  
-- Extracting business insights from data  
-
----
-
-## 👩‍💻 Created By
-Kajal Sonwane
+- Extracting business insights from data
